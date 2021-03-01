@@ -1,0 +1,6 @@
+2
+2
+B,C124.S17,The Cat in the Hat,Dr. Seuss,Children's Literature
+P,QJ072.C23.37.4,Computational Linguistics,37,4,Computational Linguistics
+P,QJ015.C42.55.2,Communications of the ACM,55,2,Computer Science
+B,F380.M1,A Game of Thrones,George R. R. Martin,Fantasy Literature
