@@ -10,14 +10,14 @@ A python script for checking in/out books. Gives a terminal option menu that let
 3. Quit
 #### The input.txt file
 - The first two row are parsed over 
-- Col
-    - Book
+- Column values should be seperated by a comma and are listed below
+    - For a Book
         1. B
         2. Call Number
         3. Title
         4. Author
         5. Genre
-    - Periodical
+    - For a Periodical
         1. P
         2. Call Number
         3. Title
