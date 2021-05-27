@@ -4,14 +4,27 @@ A python script for checking in/out books. Gives a terminal option menu that let
 ## Input 
 #### Terminal Option menu
 1. Display Collection 
-    - Displays the option of books available based on the input file given
+    - Displays the option of library items available based on the input file given
 2. Check out materials
-    - Lets the user check out a book by entering in the book's call number
+    - Lets the user check out a library item by entering in the book's call number
 3. Quit
 #### The input.txt file
-- The first row should be integers values of the number of columns and rows separated by a whitespace
-- The proceeding should be the 2D list to be parsed
-- See provided .txt files for examples
+- The first two row are parsed over 
+- Col
+    - Book
+        1. B
+        2. Call Number
+        3. Title
+        4. Author
+        5. Genre
+    - Periodical
+        1. P
+        2. Call Number
+        3. Title
+        4. Volume
+        5. Issue
+        6. Subject     
+- See provided .txt file for an example
 
 
 ## Process
